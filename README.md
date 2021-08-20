@@ -1,5 +1,8 @@
 ### Hello, I'm Shahanawaz
-![Visitor count](https://komarev.com/ghpvc/?username=shahnawazkcl)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shahnawazkcl/count.svg" />
+</p>
 
     👋 I’m a computational biologist cum Bioinformatician and life long learner.
     👀 I’m interested in Deeplearning and application in Medicine at transcriptional level. also Understanding the stemcells at fundamental level.
