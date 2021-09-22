@@ -10,7 +10,7 @@
     🌱 I’m currently learning anything that is related to DeepLearning
     💞️ I’m looking to collaborate with mathematicians and physicist interested in solving biological questions.
     📫 How to reach me: email: saalis.uk@gmail.com or shahnawaz.ali@kcl.ac.uk || twitter @shahnawaz_mbd
-    ⚡️ Fun fact: I like playing chess.
+    ⚡️ Fun fact: I like playing Cricket, football and Chess.
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -27,6 +27,7 @@
 <a href="https://uk.linkedin.com/in/shahnawaz-ali-jmi"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Shahnawaz%20Ali-blue"></a>
 <a href="https://www.researchgate.net/profile/Shahnawaz-Ali"><img alt="ResearchGate" src="https://img.shields.io/badge/researchgate-Shahnawaz-green"></a>
 <a href="https://twitter.com/shahnawaz_mbd"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Shahnawaz-blue"></a>
+  <a href="https://www.chess.com/member/vendetta_ver2"><img alt="Chess.com" src="https://img.shields.io/badge/Chess-Shahnawaz-brown"></a>
 </p>
 <!---
 shahnawazkcl/shahnawazkcl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
