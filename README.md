@@ -28,7 +28,13 @@
 <a href="https://www.researchgate.net/profile/Shahnawaz-Ali"><img alt="ResearchGate" src="https://img.shields.io/badge/researchgate-Shahnawaz-green"></a>
 <a href="https://twitter.com/shahnawaz_mbd"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Shahnawaz-blue"></a>
 <a href="https://www.chess.com/member/vendetta_ver2"><img alt="Chess.com" src="https://img.shields.io/badge/Chess-Shahnawaz-brown"></a>
-  <a href="https://deepnote.com/@shahnawaz-ali"><img alt="Deepnote" src="https://img.shields.io/badge/deepnote-Shahnawaz-blue"></a>
+</p>
+
+### 🤖 &nbsp;Code with Me 
+
+<p align="center">
+ <a href="https://deepnote.com/@shahnawaz-ali"><img alt="Deepnote" src="https://img.shields.io/badge/deepnote-Shahnawaz-blue"></a>
+<a href="https://www.codewars.com/users/ali08/badges/micro"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-Shahnawaz-brown"></a>
 </p>
 <!---
 shahnawazkcl/shahnawazkcl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
