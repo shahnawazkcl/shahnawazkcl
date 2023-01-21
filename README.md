@@ -28,7 +28,7 @@
 <a href="https://www.researchgate.net/profile/Shahnawaz-Ali"><img alt="ResearchGate" src="https://img.shields.io/badge/researchgate-Shahnawaz-green"></a>
 <a href="https://twitter.com/shahnawaz_mbd"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Shahnawaz-blue"></a>
 <a href="https://www.chess.com/member/vendetta_ver2"><img alt="Chess.com" src="https://img.shields.io/badge/Chess-Shahnawaz-brown"></a>
-<a href="https://medium.com/@saalis.uk"><img alt="medium" src="https://img.shields.io/badge/medium-Shahnawaz-black"></a>
+<a href="https://medium.com/@saalis-uk"><img alt="medium" src="https://img.shields.io/badge/medium-Shahnawaz-black"></a>
 </p>
 
 ### 🤖 &nbsp;Code with Me 
