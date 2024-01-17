@@ -6,10 +6,10 @@
 
     👋 I’m a computational biologist cum Bioinformatician and life long learner.
     👀 I’m interested in Deeplearning and application in Medicine at transcriptional level. 
-        and Understanding the stemcells at fundamental level.
+        and Understanding the Cells at fundamental level.
     🌱 I’m currently learning anything that is related to DeepLearning
     💞️ I’m looking to collaborate with mathematicians and physicist interested in solving biological questions.
-    📫 How to reach me: email: saalis.uk@gmail.com or shahnawaz.ali@kcl.ac.uk || twitter @shahnawaz_mbd
+    📫 How to reach me: email: saalis.uk@gmail.com or s.ali@crukscotlandinstitute.ac.uk || twitter @shahnawaz_mbd
     ⚡️ Fun fact: I like playing Cricket, football and Chess.
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -23,7 +23,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://wattlab.org/shahnawaz-ali.html"><img alt="LabProfile" src="https://img.shields.io/badge/LabProfile-Shahnawaz%20Ali-red?"></a>
+<!--- <a href="https://wattlab.org/shahnawaz-ali.html"><img alt="LabProfile" src="https://img.shields.io/badge/LabProfile-Shahnawaz%20Ali-red?"></a> --->
 <a href="https://uk.linkedin.com/in/shahnawaz-ali-jmi"><img alt="LinkedIn" src="https://img.shields.io/badge/Shahnawaz%20Ali-grey?logo=linkedin"></a>
 <a href="https://www.researchgate.net/profile/Shahnawaz-Ali"><img alt="ResearchGate" src="https://img.shields.io/badge/Shahnawaz-grey?logo=researchgate"></a>
 <a href="https://twitter.com/shahnawaz_mbd"><img alt="Twitter" src="https://img.shields.io/badge/Shahnawaz-blue?logo=twitter"></a>
