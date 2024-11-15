@@ -3,6 +3,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shahnawazkcl/count.svg" />
 </p>
+
     👋 Hi! I’m a Computational Biologist and Bioinformatician with a passion for lifelong learning.
     👀 My primary interests lie in Deep Learning and its applications in medicine, particularly at the transcriptional level, as well as understanding cells at a fundamental level.
     🌱 I'm always eager to explore anything related to Deep Learning or that sparks my imagination. 
