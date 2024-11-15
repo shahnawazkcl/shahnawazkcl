@@ -3,14 +3,12 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shahnawazkcl/count.svg" />
 </p>
-
-    👋 I’m a computational biologist cum Bioinformatician and life long learner.
-    👀 I’m interested in Deeplearning and application in Medicine at transcriptional level. 
-        and Understanding the Cells at fundamental level.
-    🌱 I’m always keen to learn anything that is related to DeepLearning or that sparks my imagination
-    💞️ I’m always looking to collaborate with mathematicians and physicist interested in solving biological questions.
-    📫 How to reach me: email: saalis.uk@gmail.com or s.ali@crukscotlandinstitute.ac.uk || twitter @shahnawaz_mbd
-    ⚡️ Fun fact: I like playing Cricket, football and Chess.
+    👋 Hi! I’m a Computational Biologist and Bioinformatician with a passion for lifelong learning.
+    👀 My primary interests lie in Deep Learning and its applications in medicine, particularly at the transcriptional level, as well as understanding cells at a fundamental level.
+    🌱 I'm always eager to explore anything related to Deep Learning or that sparks my imagination. 
+    💞️ I'm open to collaborations, especially with mathematicians and physicists, to tackle complex biological questions.
+    📫 Feel free to reach out to me: email: saalis.uk@gmail.com or s.ali@crukscotlandinstitute.ac.uk || [@shahnawaz_mbd](https://twitter.com/shahnawaz_mbd)
+    ⚡️ Fun fact: I enjoy playing cricket, football, and chess!
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
