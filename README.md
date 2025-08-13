@@ -1,8 +1,7 @@
 ### Hello, I'm Shahanawaz
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shahnawazkcl/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=shahnawazkcl&style=for-the-badge&color=green&abbreviated=true&label=PROFILE+Visits" />
 </p>
 
 👋 Hi! I’m a Computational Biologist and Bioinformatician with a passion for lifelong learning.  
