@@ -4,10 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=shahnawazkcl&style=for-the-badge&color=green&abbreviated=true&label=PROFILE+Visits" />
 </p>
 
-👋 Hi! I’m a Computational Biologist and Bioinformatician with a passion for lifelong learning.  
-👀 My primary interests lie in Deep Learning and its applications in medicine, particularly at the transcriptional level, as well as understanding cells at a fundamental level.  
-🌱 I'm always eager to explore anything related to Deep Learning or that sparks my imagination.  
-💞️ I'm open to collaborations, especially with mathematicians and physicists, to tackle complex biological questions.  
+👋 Hi! I’m a Computational Biologist and Bioinformatician with a passion for lifelong learning.    
+👀 My main interests are in Deep Learning and its applications in medicine—especially at the transcriptional level—and in understanding cells at their core.  
+🌱 I’m always excited to dive into anything connected to Deep Learning or that sparks curiosity and imagination.  
+💞️ I’m open to collaborations, especially with mathematicians and physicists, to explore complex biological questions.  
 📫 Feel free to reach out to me:  
 - **Email:** saalis.uk@gmail.com | s.ali@crukscotlandinstitute.ac.uk  
 - **Twitter:** [@shahnawaz_mbd](https://twitter.com/shahnawaz_mbd)  
